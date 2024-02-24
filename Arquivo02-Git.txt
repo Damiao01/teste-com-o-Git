@@ -1,1 +1,6 @@
 Repositorio na maquina versão2
+
+Alteração na branch ramo 01
+
+erro no vscode analise necessaria
+

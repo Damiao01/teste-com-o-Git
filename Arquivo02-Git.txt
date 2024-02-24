@@ -2,5 +2,7 @@ Repositorio na maquina versão2
 
 Alteração na branch ramo 01
 
-erro no vscode analise necessaria
+erro no vscode analise necessaria 
+
+atualização realizada com sucesso.... proximo passo.
 
